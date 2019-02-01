@@ -57,6 +57,6 @@
     }
   }
 
-  return new HappyBirthDay(config);
+  return new HappyBirthDay();
 
-})(config);
+})();
