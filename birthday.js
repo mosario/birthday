@@ -4,7 +4,7 @@
       health: Number.MAX_VALUE,
       happiness: Number.MAX_VALUE,
       teamProductivity: Number.POSITIVE_INFINITY,
-      successful: true,
+      success: true,
     }
   }
 
