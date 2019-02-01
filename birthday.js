@@ -1,4 +1,16 @@
 ;(function () {
+  function getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+  function getNewProduct() {
+    var framework = ['angular', 'vue', 'angular' , 'react', 'angular'];
+    return {
+      name: Math.random().toString(36).substring(3),
+      stack: framework[getRandomInt(0,framework.length - 1)],
+    }
+  }
   function HappyBirthDay() {
     this.congratulations = {
       health: Number.MAX_VALUE,
@@ -40,6 +52,7 @@
       success: true,
       money: Number.MAX_VALUE,
       message:'we love you!!!',
+      newProduct: getNewProduct(),
       goodLuck:Number.MAX_VALUE
     }
   }
