@@ -6,9 +6,9 @@
       teamProductivity: Number.POSITIVE_INFINITY,
       allDreamsCome: true,
       success: true,
-      allDreamsCome: true,
       money: Number.MAX_VALUE,
-      message:'we love you!!!'
+      message:'we love you!!!',
+      goodLuck:Number.MAX_VALUE
     }
   }
 
