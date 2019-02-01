@@ -4,6 +4,7 @@
       health: Number.MAX_VALUE,
       happiness: Number.MAX_VALUE,
       teamProductivity: Number.POSITIVE_INFINITY,
+      beAHeadOfOfTheGreatestFrontendDepartmentInTheWorld: true,
       allDreamsCome: true,
       success: true,
       allDreamsCome: true,
