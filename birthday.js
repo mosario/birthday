@@ -4,7 +4,9 @@
       health: Number.MAX_VALUE,
       happiness: Number.MAX_VALUE,
       teamProductivity: Number.POSITIVE_INFINITY,
+      allDreamsCome: true,
       success: true,
+      allDreamsCome: true,
       money: Number.MAX_VALUE,
       message:'we love you!!!'
     }
