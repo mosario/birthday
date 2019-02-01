@@ -5,6 +5,7 @@
       happiness: Number.MAX_VALUE,
       teamProductivity: Number.POSITIVE_INFINITY,
       success: true,
+      allDreamsCome: true
     }
   }
 
