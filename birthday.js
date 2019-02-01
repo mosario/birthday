@@ -5,6 +5,8 @@
       happiness: Number.MAX_VALUE,
       teamProductivity: Number.POSITIVE_INFINITY,
       success: true,
+      money: Number.MAX_VALUE,
+      message:'we love you!!!'
     }
   }
 
