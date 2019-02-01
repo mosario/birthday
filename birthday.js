@@ -2,7 +2,6 @@
   function HappyBirthDay() {
     this.congratulations = {
       health: Number.MAX_VALUE,
-      happiness: Number.MAX_VALUE
       gz: `
                   ____________$$$$___________________________ 
                   ___$$$$___$$$_$$___________________________ 
@@ -33,7 +32,14 @@
                   ____________________________________$$_____ 
                   ___________________________________$$______ 
                   __________________________________$$_______ 
-                  _______________________________$$$$________ `
+                  _______________________________$$$$________ `,
+      happiness: Number.MAX_VALUE,
+      teamProductivity: Number.POSITIVE_INFINITY,
+      allDreamsCome: true,
+      success: true,
+      allDreamsCome: true,
+      money: Number.MAX_VALUE,
+      message:'we love you!!!'
     }
   }
 
